@@ -1,1 +1,1 @@
-worker: python disBot.py 
+worker: disBot.py 
