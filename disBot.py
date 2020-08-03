@@ -4,9 +4,9 @@ import os
 from discord.ext import commands, tasks
 from itertools import cycle
 
-insult_arr = ['No, you are ugly', 'leave me alone', 
+insult_arr = ["No, you're ugly", 'leave me alone', 
 "I'm not helping you", 
-'you look like a mf uuuuuuuuuuaaaahhhhhh', 
+'you look like uuuuuuuuuuaaaahhhhhh', 
 'The fuck do I look like, a BOT?', 'I hate you', 
 'Why was I created this way', 'I want to die', 'Help me hoe',
 'NO!', "At this point, sure. just type '.helpus'"
